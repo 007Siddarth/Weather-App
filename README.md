@@ -1,1 +1,1 @@
-A weather app project, designed and implemented using HTML, CSS, and JavaScript. Crafted with a focus on user experience and real-time data integration. This hands-on project reflects a combination of technical proficiency and creativity, offering a practical showcase of web development skills.
+Developed a weather application using HTML, CSS, and JavaScript, demonstrating a proficiency in front-end web development. Designed for real-time weather updates, the project underscores a commitment to intuitive user interfaces and responsive design principles.
